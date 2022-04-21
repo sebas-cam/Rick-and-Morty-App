@@ -1,4 +1,6 @@
-# Rick-and-Morty-App
+# Rick-and-Morty-App 
+
+Link: https://roaring-cranachan-b8a248.netlify.app/
 
 The Rick and Morty App was created using:
 
