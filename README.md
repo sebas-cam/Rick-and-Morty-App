@@ -4,10 +4,10 @@ Link: https://roaring-cranachan-b8a248.netlify.app/
 
 The Rick and Morty App was created using:
 
--HTML 
--CSS 
--Bootstrap 
--Vanilla Javascript
+-HTML                                                                
+-CSS                                                          
+-Bootstrap                                        
+-Vanilla Javascript                                                   
 
 
 The Rick and Morty App requires:
